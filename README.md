@@ -1,6 +1,11 @@
 # Libby (AlessioDP)
 
-## [Changes in this fork](./CHANGELOG.md)
+## About this fork
+
+Mirror for jitpack, to use the latest snapshot version.<br>
+https://jitpack.io/#nobeld/libby
+
+## [Changes from the base fork](./CHANGELOG.md)
 
 # Libby
 
