@@ -1,10 +1,13 @@
 # Libby (AlessioDP)
 
-## [Changes in this fork](./CHANGELOG.md)
+## [Changes in the base fork](./CHANGELOG.md)
+
+## About the fork
+A mirror with jitpack for the last release. [Go there!](https://github.com/NobelD/libby/tree/gradle#usage)
 
 ## 2.0.0 Beta
 
-A beta version of the 2.0.0 update is available on the `gradle` branch, with many changes and improvements. [Try it out!](https://github.com/AlessioDP/libby/tree/gradle#usage)
+A beta version of the 2.0.0 update is available on the `gradle` branch, with many changes and improvements. [Try it out!](https://github.com/NobelD/libby/tree/gradle#usage)
 
 # Libby
 
