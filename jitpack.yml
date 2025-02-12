@@ -1,3 +1,2 @@
-# Just to be sure
 jdk:
-  - openjdk8
+  - openjdk17
